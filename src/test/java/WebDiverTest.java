@@ -4,7 +4,7 @@ import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
-public class WebDiver {
+public class WebDiverTest {
     @Test
     public void main() throws InterruptedException{
         System.setProperty("webdriver.gecko.driver","geckodriver.exe");
